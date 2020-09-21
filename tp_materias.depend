@@ -45,3 +45,19 @@
 	<rlutil.h>
 	"registros.h"
 
+1600717136 source:c:\users\lucho\onedrive\documentos\github\tp_finales\menues.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<rlutil.h>
+	"registros.h"
+
+1600721125 c:\users\lucho\onedrive\documentos\github\tp_finales\registros.h
+
+1600721125 source:c:\users\lucho\onedrive\documentos\github\tp_finales\main.cpp
+	<iostream>
+	<rlutil.h>
+	"registros.h"
+

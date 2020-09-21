@@ -9,6 +9,7 @@ using namespace rlutil;
 
 int main()
 {
+    bloquear_resize();
     system("color f5");
     setCursorVisibility(false);
     menu_principal();

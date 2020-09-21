@@ -254,12 +254,13 @@ void config()
 bool emergente(char alert[], int x, int y)
 {
 
+
     setColor(LIGHTMAGENTA);
     int T = strlen(alert);
-
+    setlocale(LC_ALL,"spanish");
     gotoxy(x,y+1);
     cout << alert;
-
+    setlocale(LC_ALL,"C");
     int c = T / 2 - 1 + x;
     gotoxy(x, y+2);
     for(int i = 0; i < c; i++)
@@ -368,7 +369,10 @@ void notify()
     PlaySound(TEXT("notify.wav"), NULL, SND_ASYNC);
 }
 
-
+void bloquear_resize(){
+HWND consoleWindow = GetConsoleWindow();
+    SetWindowLong(consoleWindow, GWL_STYLE, GetWindowLong(consoleWindow, GWL_STYLE) & ~WS_MAXIMIZEBOX & ~WS_SIZEBOX);
+}
 
 
 

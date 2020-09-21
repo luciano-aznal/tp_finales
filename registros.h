@@ -24,5 +24,6 @@ void config();
 bool emergente(char[], int, int);
 void fin();
 void notify();
+void bloquear_resize();
 
 #endif // REGISTROS_H_INCLUDED
