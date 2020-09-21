@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1600662690 source:c:\users\lucho\onedrive\documentos\laboratorio ii\tp_materias\main.cpp
+	<iostream>
+	<rlutil.h>
+	"registros.h"
+
+1600666618 c:\users\lucho\onedrive\documentos\laboratorio ii\tp_materias\registros.h
+
+1600668595 source:c:\users\lucho\onedrive\documentos\laboratorio ii\tp_materias\menues.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<rlutil.h>
+	"registros.h"
+
+1600666918 source:c:\users\micae\onedrive - frgp.utn.edu.ar\tup c2\laboratorio de computacion ii\codeblocks\finales\menues.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<rlutil.h>
+	"registros.h"
+
+1600666617 c:\users\micae\onedrive - frgp.utn.edu.ar\tup c2\laboratorio de computacion ii\codeblocks\finales\registros.h
+
+1600662689 source:c:\users\micae\onedrive - frgp.utn.edu.ar\tup c2\laboratorio de computacion ii\codeblocks\finales\main.cpp
+	<iostream>
+	<rlutil.h>
+	"registros.h"
+
