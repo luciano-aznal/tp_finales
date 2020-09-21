@@ -32,6 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Linker>
+			<Add library="winmm" />
+		</Linker>
 		<Unit filename="main.cpp" />
 		<Unit filename="menues.cpp" />
 		<Unit filename="registros.h" />

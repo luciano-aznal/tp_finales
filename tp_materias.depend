@@ -29,3 +29,19 @@
 	<rlutil.h>
 	"registros.h"
 
+1600710731 source:c:\users\lucho\onedrive\documentos\laboratorio ii\tp_finales\main.cpp
+	<iostream>
+	<rlutil.h>
+	"registros.h"
+
+1600713230 c:\users\lucho\onedrive\documentos\laboratorio ii\tp_finales\registros.h
+
+1600714078 source:c:\users\lucho\onedrive\documentos\laboratorio ii\tp_finales\menues.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<windows.h>
+	<rlutil.h>
+	"registros.h"
+
